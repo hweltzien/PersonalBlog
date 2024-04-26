@@ -9,8 +9,9 @@ const submitBtn = document.querySelector('.submitBtn');
 const allBlogPost = JSON.parse(localStorage.getItem('blogPosts')) || [];
 
 //display blog post 
- renderBlogPost();
-//changing text content to a message depending on conditions (see line 32)
+//  renderBlogPost();
+
+//changing text content to a message depending on conditions
  function displayMessage(type, message) {
     msgDiv.textContent = message;
     msgDiv.setAttribute('class', type);
@@ -26,7 +27,7 @@ function renderBlogPost() {
     contentInput.textContent = content;
 }
 //checking that user input is provided on clicking "submit"
-submitBtn.addEventListener('click', function (event) {
+formEl.addEventListener('submit', function (event) {
     event.preventDefault();
     const username = usernameInput.value;
     const title = titleInput.value;
@@ -66,17 +67,3 @@ console.log(username, title)
 
 
 
-
-
-
-// /*event-bubbling on submit button*/
-// formEl.on('submit', handleFormSubmit);
-
-// /*add event listener to submit button*/
-// formEl.on('click, handleFormSubmit')
-
-// function handleFormSubmit(event) {
-//     event.preventDefault();
-// }
-
-// ______.placeholder = 'Enter your username'

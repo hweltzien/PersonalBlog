@@ -19,18 +19,27 @@
 }
 h1 {
     font-family: "Dancing Script", cursive;
+    
+    
 }
 
 h4 {
-    font-family: "Dancing Script", cursive;  
+    font-family: "Dancing Script", cursive;
+    font-size: 20px;  
+}
+
+h2 {
+    font-family: "Shadows Into Light", cursive;
 }
 
 ul {
     font-family: "Shadows Into Light", cursive;
     list-style-type: none;
+    font-size: 20px;
 }
 p {
-    border: solid;
+    
+    font-family: "Shadows Into Light", cursive;
 }   
 header {
     padding: 10px;
@@ -45,12 +54,34 @@ button{
     font-size: 15px;
     
 }
+div {
+   padding: 20px 0;
+   border: solid;
+   
+    text-align: center;
 
-
-footer {
-    border-top: solid;
 }
+article {
+   display: grid;
+   /* height: 400px; */
+   align-content: space-evenly;
+   grid-template-columns: auto auto auto;
+   gap: 10px;
+   padding: 10px;
+   
+   
+}
+footer {
+    text-align: center;
+    width: 100%;
+    
+    
 
+}
+a:link {
+    color: black;
+    
+}
 .theme-img {
     height: 200px;
     width: 100%;

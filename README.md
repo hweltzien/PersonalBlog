@@ -1,7 +1,7 @@
 # Personal Blog
 
 ## Description
-After utilizing web-based resources and instructional support ...
+After utilizing web-based resources and instructional support, I learned how to dynamically create HTML elements and to display stored data on the DOM. I also learned about the properties of an "event listener." I used an event listener to create a light/dark mode toggle, a "submit" button to direct the user to the next page, and a "back" button to direct the user to a previous page. Moreover, this project further developed my JavaScript knowledge and skills.
 
 ## Table of Contents 
 
@@ -17,7 +17,9 @@ To clone the assignment, click the green button labeled, "code." Copy the URL fo
 
 ## Usage
 
-This blog has... (INSERT SCREENSHOT HERE)
+Beginning on "index.html," the user will see the heading, "Create a New Post" and a form to collect user input. After completing the form and upon clicking the "submit" button, the user is directed to "blog.html." The user will see the heading, "Recent Posts" and is presented with user input in a grid template. In the footer, there is a link to the author's portfolio. The user can click the "back" button to complete the form again. Both pages have a light/dark mode toggle.   
+
+
 
 ## How-To-Guide
 <ul>    
@@ -52,7 +54,7 @@ This blog has... (INSERT SCREENSHOT HERE)
     <li>Collaboration with Robert Saavendra Jr.</li>
     <li>Office hours with Erik Hirsch</li>
     <li>Office hours with Anthony Barragan</li>
-    <li><a href = "https://www.youtube.com/watch?v=BI1o2H9z9fo">Traversy Media</a></li>
+    
 </ul>
 
 ## License

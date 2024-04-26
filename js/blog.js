@@ -33,7 +33,7 @@ allBlogPost.forEach((element) => {
   const eachPostDiv = document.createElement('div')
   const usernameInput = document.createElement('h4');
   const titleInput = document.createElement('h2');
-  const contentInput = document.createElement('h3'); 
+  const contentInput = document.createElement('p'); 
 
   dynamicPosts.append(eachPostDiv);
   eachPostDiv.appendChild(usernameInput);
