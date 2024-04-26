@@ -62,4 +62,4 @@ Beginning on "index.html," the user will see the heading, "Create a New Post" an
  
 Please refer to the LICENSE in the repo.
 
-# [link to completed project](______________ '_blank')
+# [link to completed project](https://hweltzien.github.io/PersonalBlog/ '_blank')
