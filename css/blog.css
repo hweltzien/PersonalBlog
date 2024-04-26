@@ -1,0 +1,62 @@
+.backBtn {
+    background-color: white; 
+    height: 26px;
+    font-family: "Shadows Into Light", cursive;
+    
+}
+.lightDarkToggle { 
+    
+    height: 50px; 
+    background-color: white;
+    /* opacity: 0.4; */
+    border-radius: 50%; 
+    border: none;     
+        
+}  
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+h1 {
+    font-family: "Dancing Script", cursive;
+}
+
+h4 {
+    font-family: "Dancing Script", cursive;  
+}
+
+ul {
+    font-family: "Shadows Into Light", cursive;
+    list-style-type: none;
+}
+p {
+    border: solid;
+}   
+header {
+    padding: 10px;
+}
+
+button{
+    background-color: white;
+    /* border-radius: 50%; */
+    border: none;
+    float: right; 
+    font-family: "Shadows Into Light", cursive;
+    font-size: 15px;
+    
+}
+
+
+footer {
+    border-top: solid;
+}
+
+.theme-img {
+    height: 200px;
+    width: 100%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background-image: url("../assets/plant\ lover.png");
+    background-size: cover;
+    background-position: center;
+}

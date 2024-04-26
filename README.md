@@ -48,9 +48,10 @@ This blog has... (INSERT SCREENSHOT HERE)
 
 ## Credits
 <ul>
-    <li>Tutoring session with ...</li>
-    <li>Collaboration with ...</li>
-    <li>Office hours with ...</li>
+    <li>Tutoring session with Benicio Lopez</li>
+    <li>Collaboration with Robert Saavendra Jr.</li>
+    <li>Office hours with Erik Hirsch</li>
+    <li>Office hours with Anthony Barragan</li>
     <li><a href = "https://www.youtube.com/watch?v=BI1o2H9z9fo">Traversy Media</a></li>
 </ul>
 
