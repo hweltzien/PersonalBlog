@@ -19,7 +19,8 @@ To clone the assignment, click the green button labeled, "code." Copy the URL fo
 
 Beginning on "index.html," the user will see the heading, "Create a New Post" and a form to collect user input. After completing the form and upon clicking the "submit" button, the user is directed to "blog.html." The user will see the heading, "Recent Posts" and is presented with user input in a grid template. In the footer, there is a link to the author's portfolio. The user can click the "back" button to complete the form again. Both pages have a light/dark mode toggle.   
 
-
+<img src= "./assets/homePage.png" alt="screenshot">
+<img src= "./assets/Blog.png" alt="screenshot">
 
 ## How-To-Guide
 <ul>    
